@@ -18,4 +18,5 @@ This project isolates the application software components from the hardware usin
 ## Toolchain
 * STM32CubeMX & STM32CubeIDE (HAL Driver)
 * ARUnit (RTE Generation)
+
 ![System Architecture Diagram](images/architecture.png)
